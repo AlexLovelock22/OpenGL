@@ -1,0 +1,11 @@
+﻿  EBO.cpp
+  Main.cpp
+C:\Users\alexlovelock\Desktop\OpenGL\OpenGL\Main.cpp(73,14): warning C4101: 'VBO': unreferenced local variable
+  shaderClass.cpp
+C:\Users\alexlovelock\Desktop\OpenGL\OpenGL\shaderClass.cpp(15,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\alexlovelock\Desktop\OpenGL\OpenGL\shaderClass.cpp(61,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\alexlovelock\Desktop\OpenGL\OpenGL\shaderClass.cpp(65,1): error C2143: syntax error: missing ';' before '}'
+  VAO.cpp
+  VBO.cpp
+  Generating Code...
+C:\Users\alexlovelock\Desktop\OpenGL\OpenGL\Main.cpp(113): error C4700: uninitialized local variable 'VAO' used
